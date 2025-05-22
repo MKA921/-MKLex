@@ -38,3 +38,15 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     main()
+
+    def main():
+    print("Hello, MKLex! This is your legal-tech platform.")
+
+if __name__ == "__main__":
+    main()
+
+    Hello, MKLex! This is your legal-tech platform.
+    with open("filename.txt", "w") as file:
+    file.write("Your data here")
+
+    Hello, MKLex! This is your legal-tech platform.

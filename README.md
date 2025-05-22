@@ -1,2 +1,8 @@
-# -MKLex
-A legal-tech platform merging law, business, and technology—built by Mustafa Kareem.
+from src.main import main
+
+def test_main(capsys):
+    main()
+    captured = capsys.readouterr()
+    assert "Hello, MKLex!" in captured.out
+
+    

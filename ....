@@ -1,0 +1,6 @@
+def main():
+    print("Hello, MKLex! This is your legal-tech platform.")
+
+if __name__ == "__main__":
+    main()
+    

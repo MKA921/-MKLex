@@ -35,3 +35,9 @@ Currently pursuing an LLM in Commercial and Corporate Law at the University of L
 - Interactive modules on EU merger thresholds
 - Simple IP registration guidance
 - Visual market dominance maps
+def main():
+    print("Hello, MKLex! This is your legal-tech platform.")
+
+if __name__ == "__main__":
+    main()
+
