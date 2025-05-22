@@ -6,17 +6,6 @@ It blends expertise in cross-border commercial law, M&A, and intellectual proper
 ## 🚀 Purpose
 MKLex aims to provide a scalable foundation for legal professionals, students, and international businesses by offering:
 
-- Modular legal education components (IP,git clone https://github.com/MustafaKareem/-MKLex.git
-cd -MKLex
-
-echo "# MKLex
-
-**MKLex** is a legal-tech platform developed by Mustafa Kareem.  
-It blends expertise in cross-border commercial law, M&A, and intellectual property with modern digital tools and technology.
-
-## 🚀 Purpose
-MKLex aims to provide a scalable foundation for legal professionals, students, and international businesses by offering:
-
 - Modular legal education components (IP, Competition, M&A)
 - Tools for understanding notification systems and market thresholds
 - Technology-driven solutions for legal service delivery
@@ -45,13 +34,4 @@ Currently pursuing an LLM in Commercial and Corporate Law at the University of L
 ## 📈 Future Features (Planned)
 - Interactive modules on EU merger thresholds
 - Simple IP registration guidance
-- Visual market dominance maps" > README.md
-
-
-def main():
-    print("Hello, MKLex! This is your legal-tech platform.")
-
-if __name__ == "__main__":
-    main()
-
-    # 
+- Visual market dominance maps
